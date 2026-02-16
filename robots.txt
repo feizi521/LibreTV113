@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /js/
-Disallow: /css/
 
-Sitemap: https://libretv.is-an.org/sitemap.xml
+# 告诉搜索引擎站点地图的位置
+Sitemap: https://ys.feizi.qzz.io/sitemap.xml
